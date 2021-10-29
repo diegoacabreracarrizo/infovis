@@ -1,1 +1,6 @@
-words will be here
+protovis
+cartograms
+dendogram
+sunburst
+brushing
+stacked graphs
