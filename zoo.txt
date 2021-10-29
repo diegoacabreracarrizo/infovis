@@ -4,3 +4,4 @@ dendogram
 sunburst
 brushing
 stacked graphs
+Choropleth map
